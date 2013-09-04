@@ -1,0 +1,14 @@
+{
+  "name": "tables",
+  "repo": "spinly/tables",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "spinly/vars": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "index.styl"
+  ]
+}
